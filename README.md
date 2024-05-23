@@ -7,10 +7,10 @@ Model Training and Evaluation
 Results
 Contributing
 
-Introduction
+Introduction:
 Zomato is a popular restaurant discovery and food delivery platform. This project focuses on predicting the ratings of restaurants listed on Zomato. Accurate prediction of restaurant ratings can help users make better dining choices and aid restaurant owners in improving their services.
 
-Dataset
+Dataset:
 The dataset used in this project includes various features related to restaurants such as:
 
 Restaurant Name
@@ -21,15 +21,15 @@ Number of Votes
 User Rating
 Other relevant features
 
-Model Training and Evaluation
+Model Training and Evaluation:
 The project explores various machine learning models including:
 
 Linear Regression
 Decision Trees
 Random Forest
 
-Results
+Results:
 The results of the model evaluation, including performance metrics for each model, are stored itself in the notebook. Detailed analysis and visualizations can be found in the notebook.
 
-Contributing
+Contributing:
 Contributions to the project are welcome. If you have any suggestions or improvements, feel free to open an issue or submit a pull request. Please ensure that your contributions adhere to the project's coding standards and guidelines.
